@@ -1,6 +1,6 @@
 # CI2024_project-work
 
-### NOTE: A change was made to the s308810.py file due to improperly unclosed parentheses.
+### NOTE: A change was made to the s308809.py file due to improperly unclosed parentheses.
 
 
 
