@@ -1,7 +1,9 @@
 # CI2024_project-work
-<br>
+
 ### NOTE: A change was made to the s308810.py file due to improperly unclosed parentheses.
-<br>
+
+
+
 # Symbolic Regression 
 
 
